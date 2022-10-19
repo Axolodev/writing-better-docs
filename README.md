@@ -6,6 +6,7 @@ On this repo you'll be able to find resources where you can learn how to improve
 ## Books
 
 - [Documentation chapter](https://abseil.io/resources/swe-book/html/ch10.html) - Software Engineering at Google by Tom Manschreck & Hyrum Wright
+- [Writing better docs](https://docsfordevelopers.com/)
 
 ## Communities
 
